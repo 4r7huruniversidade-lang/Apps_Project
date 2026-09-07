@@ -1,0 +1,2 @@
+captar dados de api e tambem atraves de scraping dados de ligas de futebol e coletar essa estatistica de preferencia com divisão de primeiro e segundo tempo e trazer analises 
+simples compreensão como media analise temporada de rodada para dados media moda
