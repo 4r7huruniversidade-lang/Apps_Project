@@ -1,0 +1,1 @@
+construir um app de ensino de matematica onde terão perguntas e repostas poderão ser em multipla escolha, preencher lacuna e arrasta e solta blocos
